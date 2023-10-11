@@ -1,0 +1,11 @@
+.car{
+    margin-top: 70px;
+}
+body{
+    font-family: AR One Sans, sans-serif;
+}
+.hov:hover{
+    background-color: black;
+    color: salmon;
+    box-shadow: 0px 40px 20px 40px;
+}

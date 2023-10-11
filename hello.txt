@@ -1,0 +1,3 @@
+<button type="button" class="btn btn-primary btn-lg">Large button</button> // large
+<button type="button" class="btn btn-success">Success</button> // the one wich we used 
+<button type="button" class="btn btn-outline-primary">Primary</button>
